@@ -9,7 +9,9 @@ Bash on nix systems provides a most powerful but dangerous canapy for other lang
 - powerful regular expressions
 - a million featues and utilities, takes a minute to learn and a lifetime to master
 
-[keybasebot.sh](keybasebot.sh)
+[Rholang](http://rholang.org) - language of reflective process calculus for algorithmically controlled process orchestration.
+
+[keybasebot.sh](keybasebot.sh) - [CoLab](https://docs.google.com/document/d/1YnXr8zx-0Wv8mSule1GXTvs1BVayEs0wKjovC-9EMOQ/edit) [RChain](https://RChain.coop) Rholang bot on keybase
 
 ![](hello.png)
 
