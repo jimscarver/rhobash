@@ -17,6 +17,8 @@ Bash on nix systems provides a most powerful but dangerous canapy for other lang
 
 rhobash?
 
+new: mkfifo pipe
+
 send: proc > pipe &
 
 receive: proc < pipe &
